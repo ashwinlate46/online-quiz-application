@@ -61,7 +61,7 @@ The **Online Quiz Application** is a comprehensive system designed to manage and
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/prajwalkokate012/Online_Quiz_Application.git
+   git clone https://github.com/ashwinlate46/online-quiz-application.git
    cd online-quiz-application
    ```
 
